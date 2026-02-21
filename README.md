@@ -1,5 +1,5 @@
-## Release v1.0
-This marks version 1.0 of the project.
+## Release v1.1
+This marks version 1.1 with enhancements.
 
 This project is currently under active development.
 ## Project Status Execution from Start to Finish
