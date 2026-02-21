@@ -7,3 +7,6 @@ This project is currently under active development.
 ## Future Plans
 - Improve UI
 - Add more features
+
+## User Story
+As a user, I can add and delete tasks in the to-do app.
