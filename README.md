@@ -12,9 +12,7 @@ Testing branches.
 - [ ] Become GitHub master
 
 Visit [GitHub](https://github.com)
-![Test Image](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg"
-     width="150"
-     alt="Cat image">
-     
+
+![Cat](https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
+
 ---
